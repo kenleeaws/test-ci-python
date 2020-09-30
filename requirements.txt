@@ -1,7 +1,5 @@
 iglovikov_helper_functions
+mip
 numpy
 pandas
-mip
-pillow
-streamlit
-torch
+python-dotenv
